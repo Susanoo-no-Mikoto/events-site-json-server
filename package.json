@@ -5,7 +5,7 @@
   "main": "api/server.js",
   "scripts": {
     "start": "node server.js",
-    "server": "json-server-auth --watch db.json --port 8080"
+    "server": "json-server-auth --watch db.json"
   },
   "dependencies": {
     "json-server": "^0.17.0",
